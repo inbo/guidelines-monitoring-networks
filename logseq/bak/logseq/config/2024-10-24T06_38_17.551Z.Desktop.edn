@@ -423,5 +423,4 @@
  :feature/enable-whiteboards? false
  :feature/enable-flashcards? false
  :graph/settings {:orphan-pages? false
- :journal? false
- :excluded-pages? false}}
+ :journal? true}}
