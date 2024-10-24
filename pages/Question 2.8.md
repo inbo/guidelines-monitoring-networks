@@ -1,5 +1,5 @@
 alias:: Vraag 2.8, protocollen opgesteld herhaalbare reproduceerbare gegevensverzameling
-tags:: Phase II
+tags:: Phase II, protocollen
 
 - **De nodige protocollen zijn opgesteld zodat de gegevens op een herhaalbare en reproduceerbare manier worden ingezameld.**
 	- *onvoldoende:* De protocollen zijn niet op papier gezet of zijn voor interpretatie vatbaar.

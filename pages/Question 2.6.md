@@ -1,5 +1,5 @@
 alias:: Vraag 2.6, steekproefkader vastgelegd doelpopulatie
-tags:: Phase II
+tags:: Phase II, steekproef
 
 - **Het steekproefkader is vastgelegd op basis van de doelpopulatie.**
 	- *onvoldoende:* Er is geen steekproefkader of het steekproefkader overlapt onvoldoende met de doelpopulatie.

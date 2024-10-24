@@ -1,5 +1,5 @@
 alias:: Vraag 2.7, steekproef representatief beeld van doelpopulatie en strata
-tags:: Phase II
+tags:: Phase II, steekproef
 
 - **Een steekproef wordt getrokken waarmee een representatief beeld verkregen wordt van de doelpopulatie (en eventuele strata binnen de doelpopulatie).**
 	- *onvoldoende:* De steekproef is niet aselect gekozen.

@@ -1,5 +1,5 @@
 alias:: Vraag 3.8, analysewerkstroom gedocumenteerd
-tags:: Phase III, analysewerkstroom
+tags:: Phase III, analysewerkstroom, documentatie
 
 - **Wijzigingen in de analysewerkstroom zijn gedocumenteerd.**
 	- *onvoldoende:* Er is geen informatie over wijzigingen in de analysewerkstroom.

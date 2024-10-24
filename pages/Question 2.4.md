@@ -1,5 +1,5 @@
 alias:: Vraag 2.4, normen referentiewaarden streefdoelen
-tags:: Phase II
+tags:: Phase II, steekproef
 
 - **Er zijn normen, referentiewaarden of streefdoelen vastgelegd.**
 - *onvoldoende:* Er is geen enkel vermelding van normen, referentiewaarden of streefdoelen.
