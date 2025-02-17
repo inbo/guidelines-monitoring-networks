@@ -2,7 +2,7 @@ tags:: website, publishing, publish, pages, github
 description:: instructions on how to update the web version of this graph
 
 - Deze repo wordt automatisch vertaald naar een website: https://inbo.github.io/guidelines-monitoring-networks
-- Normaal gezien zou je de procedure om een web-kopie van die graph te publiceren maar één keer configureren.
+- Normaal gezien zou je de procedure om een deze grafiek als website te publiceren maar één keer configureren.
 	- Maar: op een **forked** kopie van de repo zou het kunnen dat je de publicatie op een github page wilt deactiveren: [[deactivate website publishing]]
 	-
 - (1) Logseq Settings
