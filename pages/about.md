@@ -1,5 +1,5 @@
 - Deze *guidelines*-repository omvat algemene informatie en generieke richtlijnen die van nut kunnen zijn bij het meetnetontwerp *sensu lato*.
-- Het is aangeraden om van dit repo [een kopie (bv. via een "fork")]([[workflow: meetnetimplementatie]]) aan te maken en in [logseq](https://logseq.com) eigen aanvullingen voor het concrete meetnet op te slaan.
+- Het is aangeraden om van deze repo [een kopie (bv. via een "fork")]([[workflow: meetnetimplementatie]]) aan te maken en in [logseq](https://logseq.com) eigen aanvullingen voor het concrete meetnet op te slaan.
 -
 -
 - *Feel free to add the description of your project here.*
