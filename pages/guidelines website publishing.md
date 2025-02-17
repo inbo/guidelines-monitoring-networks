@@ -8,7 +8,7 @@ description:: instructions on how to update the web version of this graph
 - (1) Logseq Settings
 	- In `logseq` kan je bepalen welke delen van je grafiek gepubliceerd worden, en welke niet.
 	- https://docs.logseq.com/#/page/publishing/block/configuration
-	- in een globale setting kan je aangeven dat pages standaard gepubliceerd worden.
+	- in een globale setting kan je aangeven dat pagina's standaard gepubliceerd worden.
 	- Een enkele page kan je niet-publiek zetten door de pagina-eigenschap `public` bovenaan in de eerste cel te zetten:
 	  ```
 	  public:: false
@@ -36,7 +36,7 @@ description:: instructions on how to update the web version of this graph
 	          with:
 	            folder: www
 	  ```
-- (3) pages
+- (3) Github Pages
 	- Enable github pages on the repository: https://docs.github.com/en/pages/quickstart
 	- link it to the `gh-pages` branch, which is created by the action above
 	- https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
