@@ -5,4 +5,4 @@ tags:: guidelines, implementation, copy guidelines
 	- instructies over "forking": https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
 	- Het is aangeraden om [de publicatie-functie nadien af te zetten]([[deactivate website publishing]]).
 	- Alternatief kan je een versie van deze guidelines downloaden en lokaal bewerken.
-- Informatie die van algemeen belang is voor het meetnetontwerp, mag je aanvullen op https://github.com/inbo/guidelines-monitoring-networks, via een issue of pull request. Alvast dank!
+- Graag algemeen belangrijke informatie voor het meetnetontwerp aanvullen op https://github.com/inbo/guidelines-monitoring-networks, via een issue of pull request. Alvast dank!
