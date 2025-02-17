@@ -4,5 +4,5 @@ tags:: guidelines, implementation, copy guidelines
   Nadien is het mogelijk om concrete aanvullingen van de implementatie van een meetnet daarin op te slaan, bv. via de "journal".
 	- instructies over "forking": https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
 	- Het is aangeraden om [de publicatie-functie nadien af te zetten]([[deactivate website publishing]]).
-	- Alternatief kan je een versie van deze guidelines downloaden en lokaal bewerken.
+	- Alternatief kan je een versie van deze "guidelines" downloaden en lokaal bewerken.
 - Graag algemeen belangrijke informatie voor het meetnetontwerp aanvullen op https://github.com/inbo/guidelines-monitoring-networks, via een issue of pull request. Alvast dank!
