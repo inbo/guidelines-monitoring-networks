@@ -9,7 +9,7 @@ description:: instructions on how to update the web version of this graph
 	- In `logseq` kan je bepalen welke delen van je grafiek gepubliceerd worden, en welke niet.
 	- https://docs.logseq.com/#/page/publishing/block/configuration
 	- in een globale setting kan je aangeven dat pages standaard gepubliceerd worden.
-	- Een enkele page kan je niet-publiek zetten door de pagina-eigenschap `public` bovenaan in de eerste cel te zetten:
+	- Een enkele pagina kan je niet-publiek zetten door de pagina-eigenschap `public` bovenaan in de eerste cel te zetten:
 	  ```
 	  public:: false
 	  ```
