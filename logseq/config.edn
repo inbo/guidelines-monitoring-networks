@@ -425,4 +425,6 @@
  :graph/settings {:orphan-pages? false
  :journal? false
  :excluded-pages? false}
- :publishing/all-pages-public? true}
+ :publishing/all-pages-public? true
+ :zotero/settings-v2 {"default" {:type-id "16548645", :include-attachments? false, :include-notes? false, :zotero-data-directory "/home/falk/Zotero"}
+ "falk" {:include-notes? false, :prefer-citekey? true, :include-attachments? false, :zotero-data-directory "/home/falk/Zotero", :type-id "16548645", :page-insert-prefix "zotero@"}}}
