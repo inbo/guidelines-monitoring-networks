@@ -1,1 +1,4 @@
 /logseq/bak/*
+/logseq/.recycle/*
+/logseq/config.edn
+/pages/zotero@*
