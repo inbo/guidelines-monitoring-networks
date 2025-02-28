@@ -29,6 +29,7 @@ tags:: references, literature, zotero
 	- Give the included pages the prefix `zotero@`.
 	- Those pages will be excluded via the `.gitignore` file of the guidelines git repository. You can still cite them.
 	- (This is just an extra safety measure to avoid involuntary reference spamming.)
+	- Note that your zotero connection information is stored in the `./logseq/config.edn` file of the repository (which should be `.gitignore`d as well).
 - ## Usage
 - You can import references from zotero by typing `/Zotero` in logseq.
 - Then, a search field will pop up, and you can browse your library.
